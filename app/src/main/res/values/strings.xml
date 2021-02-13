@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">weapp</string>
+    <string name="sendsms">sendSMS</string>
+    <string name="whatsapp">Whatsapp</string>
+</resources>
